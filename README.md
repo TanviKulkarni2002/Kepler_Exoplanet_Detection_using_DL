@@ -1,0 +1,1 @@
+Classifying data points from Kepler space telescope as exoplanets or false positives using LSTM and CNN algorithms. Generative Adversarial Networks (GANs) was used for ynthetic data generation was also performed to improve the performance of the models.
